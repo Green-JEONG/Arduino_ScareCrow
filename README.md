@@ -68,9 +68,13 @@
 </div>
 
 ## 1️⃣1️⃣ 결과물
-<img src="https://github.com/user-attachments/assets/68bc9095-d603-457d-8b56-e7da1649eb7f" width="500"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68bc9095-d603-457d-8b56-e7da1649eb7f" style="width:56%; display:inline-block; margin-bottom:10px;"/>
 
-https://github.com/user-attachments/assets/83e26c09-50ae-47eb-8f26-f54dea292c0c
+  <a href="https://youtube.com/shorts/sdVarhPbJOY" target="_blank">
+    <img src="http://img.youtube.com/vi/sdVarhPbJOY/0.jpg" style="width:42%; display:inline-block; margin-bottom:10px;"/>
+  </a>
+</div>
 
 ## 1️⃣2️⃣ 기대효과
 <img src="https://github.com/user-attachments/assets/650df16f-9937-4b80-9a75-8f8ad99065f6" width="600"/>

@@ -11,8 +11,8 @@
 <img src="https://github.com/user-attachments/assets/52c00fef-064f-413e-9140-92d640b06950" width="600"/>
 
 ## 4️⃣ 주요 기능
-<img src="https://github.com/user-attachments/assets/177a2da9-1a6e-497c-ab64-405759f72baf" width="500"/>
-<img src="https://github.com/user-attachments/assets/6ef6aff2-08f6-4cd2-bbe1-53de2a993884" width="500"/>
+<img src="https://github.com/user-attachments/assets/177a2da9-1a6e-497c-ab64-405759f72baf" width="400"/>
+<img src="https://github.com/user-attachments/assets/6ef6aff2-08f6-4cd2-bbe1-53de2a993884" width="400"/>
 
 ## 5️⃣ 플로우 차트
 <img src="https://github.com/user-attachments/assets/ca7b5a83-f1bb-4adf-9ceb-837c724a6694" width="500"/>
